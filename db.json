@@ -1,16 +1,26 @@
 {
   "posts":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "company": "Ellette",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "company": "Jinny",
+      "postedAt": "2021-09-09",
+      "city": "Ludhiana",
+      "location": "Belgium",
+      "role": "FullStack",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java"
     }
   ]
 }
